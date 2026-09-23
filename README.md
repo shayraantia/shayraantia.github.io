@@ -14,7 +14,7 @@ HTML, so links are plain page loads and the site works with scripting disabled.
 | Path | What it is |
 |---|---|
 | `index.html`, `about/`, `ai/`, `build/`, `journal/`, `links/`, `the-room/` | The public site |
-| `partners/` | The partner surface: the hub, the brand kit, the look book, the reach figures |
+| `partners/` | The partner surface: the hub, the look book, the reach figures |
 | `collateral/` | The two partnership briefs, as PDFs |
 | `images/`, `downloads/` | Assets referenced by the pages |
 | `_next/static/` | Compiled stylesheet and the four brand typefaces |
